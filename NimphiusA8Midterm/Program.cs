@@ -10,8 +10,7 @@ namespace MidtermRacecarAssignment
         {
             Console.WriteLine("Welcome to the Race Track!" +
                 "\nI hope You're Ready to RACE!" +
-                "\n--------------------------------" +
-                "\n\nLets start with some info...");
+                "\n--------------------------------");
 
             UserInput();
         }

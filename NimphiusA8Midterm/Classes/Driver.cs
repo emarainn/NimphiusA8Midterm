@@ -20,6 +20,8 @@ namespace NimphiusA8Midterm.Classes
 
         public void PersonalDriver()
         {
+            Console.WriteLine("\n\nLets start with some info..." +
+                "\n----------------------------------");
             string dName, dInfo, cType, cName;
 
             do
